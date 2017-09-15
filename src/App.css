@@ -1,0 +1,8 @@
+#main_form{
+    margin-left: 1%;
+}
+input{
+    display: block;
+    margin-bottom: 7px;
+    padding: 4px;
+}
